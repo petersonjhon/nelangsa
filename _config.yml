@@ -12,7 +12,7 @@ twitter_username:    # Your Twitter username here
 github_username:    petersonjhon # Your GitHub username here
 
 # Site Settings
-url:                / # main url
+url:                "" # main url
 baseurl:            "" # for gh-pages
 permalink:          /:title # Post permalink
 timezone:           Asia/Jakarta # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
